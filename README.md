@@ -1,4 +1,4 @@
-# Text-Summarizer-in-Python-v1
+# Text-Summarizer-in-Python
 This program summarize the given paragraph and summarize it. It is of two category such as summarize input text from the keyboard or summarize the text parsed by BeautifulSoup Parser.
 
 The `textSummarizer.py` simply summarize the paragraph given by the keyboard.
